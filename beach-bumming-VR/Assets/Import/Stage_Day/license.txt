@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stage Day
+* source:	https://sketchfab.com/3d-models/stage-day-14e26f58e10c460c9e8b26b14a6272be
+* author:	dakareereed (https://sketchfab.com/dakareereed)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stage Day" (https://sketchfab.com/3d-models/stage-day-14e26f58e10c460c9e8b26b14a6272be) by dakareereed (https://sketchfab.com/dakareereed) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
