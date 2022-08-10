@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon-style Scuba Koala
+* source:	https://sketchfab.com/3d-models/cartoon-style-scuba-koala-8946a5e9e59f4e428655919c6656a9d4
+* author:	Ben Holton (https://sketchfab.com/bholton)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon-style Scuba Koala" (https://sketchfab.com/3d-models/cartoon-style-scuba-koala-8946a5e9e59f4e428655919c6656a9d4) by Ben Holton (https://sketchfab.com/bholton) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
